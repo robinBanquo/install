@@ -28,8 +28,8 @@ sudo apt-get install spotify-client
 #dropbox
 sudo apt-get install dropbox
 
-#lampp
-sudo apt-get install lampp
+#lamp
+sudo apt install apache2 php mysql-server libapache2-mod-php php-mysql
 
 #méga
 #telecharger le .deb sur leurs site
