@@ -31,4 +31,6 @@ sudo apt-get install dropbox
 #lampp
 sudo apt-get install lampp
 
-#
+#méga
+#telecharger le .deb sur leurs site
+
