@@ -34,3 +34,13 @@ sudo apt install apache2 php mysql-server libapache2-mod-php php-mysql
 #méga
 #telecharger le .deb sur leurs site
 
+#  Installing riot.im client on Ubuntu
+# have fun :)
+# ?
+sudo add-apt-repository 'deb https://riot.im/packages/debian/ xenian main'
+ 
+wget -qO - https://riot.im/packages/debian/repo-key.asc | sudo apt-key add -
+ 
+sudo apt-get update
+ 
+sudo apt-get --show-progress install riot-web
