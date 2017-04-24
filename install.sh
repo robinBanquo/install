@@ -44,3 +44,6 @@ wget -qO - https://riot.im/packages/debian/repo-key.asc | sudo apt-key add -
 sudo apt-get update
  
 sudo apt-get --show-progress install riot-web
+
+#Argouml
+# telecharger sur https://argouml.fr.uptodown.com/ubuntu
